@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="numbers">
+        <item>20-30   kgs</item>
+        <item>30-40   kgs</item>
+        <item>40-50   kgs</item>
+        <item>50-60   kgs</item>
+        <item>70-80   kgs</item>
+        <item>80-90   kgs</item>
+        <item>90-100  kgs</item>
+        <item>100-110 kgs</item>
+        <item>110-120 kgs</item>
+        <item>120-130 kgs</item>
+        <item>130-140 kgs</item>
+        <item>140-150 kgs</item>
+        <item>150-160 kgs</item>
+        <item>160-170 kgs</item>
+        <item>170-180 kgs</item>
+        <item>180-190 kgs</item>
+        <item>190-200 kgs</item>
+        <item>200-210 kgs</item>
+        <item>210-220 kgs</item>
+        <item>220-more kgs</item>
+    </string-array>
+
+</resources>

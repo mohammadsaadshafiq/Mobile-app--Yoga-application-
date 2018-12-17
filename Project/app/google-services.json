@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "933811350025",
+    "firebase_url": "https://yogapp-a8982.firebaseio.com",
+    "project_id": "yogapp-a8982",
+    "storage_bucket": "yogapp-a8982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933811350025:android:3321543efb08a35f",
+        "android_client_info": {
+          "package_name": "com.example.user.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933811350025-0c819gn325dlskoq2u0msqnrbh8digmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6lKymZHyhQAPQfWmM84-tCvHFTtW3gI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
